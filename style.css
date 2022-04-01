@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500&display=swap');
+
+.sneps,.tests,.fashion,.editorials {
+    margin-top: 100px;
+    /* width: 1000px; */
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.editorials2 {
+    margin-top: 25px;
+    /* width: 1000px; */
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+img {
+    max-width: 100%;
+}
+
+* {
+    font-family: 'Cinzel', serif;
+    font-size: 24px;
+}
+
+.carousel {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
